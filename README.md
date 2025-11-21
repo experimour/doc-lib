@@ -1,2 +1,2 @@
 # doc-lib
-Comprehensive Documentation Library for Levelith/Experimour 
+Comprehensive Documentation Library for Experimour (formally levelith)
